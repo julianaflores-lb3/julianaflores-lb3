@@ -32,7 +32,7 @@
     
  <!-- </div> -->
   
-  ![snake animation](https://github.com/julianaflores-lb3/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
