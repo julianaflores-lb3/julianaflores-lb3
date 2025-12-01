@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://www.beacons.page/julianaflores">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianaflores-lb3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianaflores-lb3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaflores-lb3&layout=compact&langs_count=7&theme=dark"/> -->
   
   
@@ -12,12 +12,12 @@
 <div style="display: inline_block"><br>
   <!-- <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-  <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ju-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ju-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Ju-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <!-- <img align="right" height="180em" alt="Ju-yoda" src="https://i.picasion.com/pic91/9012b02026bc2188234d70527e9293b2.gif">-->
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" height="180em" alt="yoda" src="https://i.picasion.com/pic91/9012b02026bc2188234d70527e9293b2.gif">
   
   
 </div>
